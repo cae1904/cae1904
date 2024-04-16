@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Currently doing a BSc in Astronomy and Astrophysics.
+
 <!--
 **cae1904/cae1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
